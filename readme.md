@@ -76,19 +76,20 @@ Code review is the systematic examination (sometimes referred to as peer review)
 
 ## Code Review Tools
 
-- [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool.
+- [Bitbucket](https://www.atlassian.com/software/bitbucket) Atlassian's cloud-based code review tool.
+- [Crucible](https://www.atlassian.com/software/crucible) Atlassian's on-premise code review tool (in maintenance mode as of January 2020).
 - [Gerrit](https://www.gerritcodereview.com/) Open source git code review tool originating out of Google.
 - [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 - [Graphite](https://graphite.dev) Fast, simple code review.
-- [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues.
-- [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook.
+- [Phabricator](https://www.phacility.com/phabricator/) Open source git/mercurial/svn code review tool originating out of Facebook (No longer maintained as of June 2021).
 - [Reviewable](https://reviewable.io/) Code review tool built on top of GitHub pull requests.
 - [Review Board](https://www.reviewboard.org/) Open source review tool that is SCM/platform neutral.
-- [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool.
+- [Upsource](https://www.jetbrains.com/upsource/) JetBrain's on-premise git/mercurial/perforce/svn code review tool (No longer available as on Feb. 2022).
 
 ## Supplemental Tools
 
 - [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
+- [LGTM](https://lgtm.com) Automated Git code review for GitHub and Bitbucket pull requests for finding security vulnerabilities and code quality issues (Shutting down Dec. 2022).
 - [PullRequest](https://www.pullrequest.com/) Code review as a service for GitHub pull requests.
 - [Sider](https://sider.review/) Automated code review service for GitHub.
 - [Softagram](https://softagram.com/) Automated code change visualization (and dependency analytics) for pull requests, merge requests (GitLab) and patch sets (Gerrit).
